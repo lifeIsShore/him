@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm an ambitious guy who have lots of idea will be done.
 
 
@@ -12,7 +12,7 @@ I'm an ambitious guy who have lots of idea will be done.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LifeIsShore&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeIsShore&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
