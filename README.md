@@ -15,9 +15,6 @@ I'm an ambitious guy who have lots of idea will be done.
 
 
 
-### ✍️  Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
 
 
 
