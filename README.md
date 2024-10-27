@@ -19,7 +19,6 @@ I'm an ambitious guy who have lots of idea will be done.
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=LifeIsShore&icon=5&color=10)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
