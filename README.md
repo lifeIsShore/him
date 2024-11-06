@@ -26,7 +26,7 @@ ahmtyagmur03@gmail.com
   
   ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
   
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)   ![Azure Pipelines](https://a11ybadges.com/badge?logo=azurepipelines)  ![Databricks](https://a11ybadges.com/badge?logo=databricks)    ![Azure DevOps](https://a11ybadges.com/badge?logo=azuredevops)
+  ![Microsoft Azure](https://a11ybadges.com/badge?logo=microsoftazure)  ![Azure Pipelines](https://a11ybadges.com/badge?logo=azurepipelines)  ![Databricks](https://a11ybadges.com/badge?logo=databricks)    ![Azure DevOps](https://a11ybadges.com/badge?logo=azuredevops)
 
 
 
